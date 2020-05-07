@@ -1,0 +1,12 @@
+h1 {
+	color: red;
+	text-align: center;
+}
+h2 {
+	color: green;
+	text-indent: 1.5em;
+}
+p {
+	color: blue;
+	text-indent: 3em;
+}
