@@ -1,9 +1,9 @@
 h1 {
 	color: red;
-	text-align: center;
+	text-align: left;
 }
 h2 {
-	color: green;
+	color: red;
 	text-indent: 1.5em;
 }
 p {
